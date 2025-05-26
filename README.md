@@ -21,7 +21,7 @@
 |:--:|:--:|:--:|:--:|
 | 1 | 오픈 카톡방  |  개별초대  |
 | 2 | 캐글 사용법  |  [리더보드](https://www.kaggle.com/competitions/sejong-ai-challenge-sample-submission?rvi=1) | [해설영상](https://www.youtube.com/watch?v=LFCOH-s8IF8&list=PLa8kMie0Pc0sSbfQuWKpJ2MVPubHsttXY&index=2) |
-| 3 | 연습문제     |  [파이썬](https://www.kaggle.com/competitions/2025-ai) |
+| 3 | 연습문제     |  [파이썬](https://www.kaggle.com/t/597bfced63dd4ba59ac266e679a3ba83) |
 
 ## 기타
 - 수고해주시는 분들
