@@ -17,11 +17,13 @@
 
 ## 사전 교육 
 ### 경시대회 준비 관련
-| | 사전 교육 | 링크1 | 링크2 | 
+| | 사전 교육 | 링크1 | 링크2 | 링크3 |
 |:--:|:--:|:--:|:--:|
 | 1 | 오픈 카톡방  |  개별초대  |
 | 2 | 캐글 사용법  |  [리더보드](https://www.kaggle.com/competitions/sejong-ai-challenge-sample-submission?rvi=1) | [해설영상](https://www.youtube.com/watch?v=LFCOH-s8IF8&list=PLa8kMie0Pc0sSbfQuWKpJ2MVPubHsttXY&index=2) |
 | 3 | 연습문제     |  [파이썬](https://www.kaggle.com/t/597bfced63dd4ba59ac266e679a3ba83) |
+| 4 | 본선문제     |  [유형1](https://www.kaggle.com/t/1d7162d037b8453abf05c94bce839767) |  [유형2](https://www.kaggle.com/t/4667001e8a8d40deae934efa0da6c899) |  [유형3](https://www.kaggle.com/t/42840c3f0e174528b265f0ef47af32de) |
+
 
 ## 기타
 - 수고해주시는 분들
